@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SilverSteelSam
 - 👀 I’m interested in all of mathematics and RL
-- 🌱 I’m currently learning Reinforcement learning
+- 🌱 I’m currently learning Reinforcement learning 👀👀
 - 💞️ I’m not really looking to collab on anything
 - 📫 Don't reach me...
